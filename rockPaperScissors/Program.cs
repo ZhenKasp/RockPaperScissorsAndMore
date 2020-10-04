@@ -17,11 +17,6 @@ namespace rockPaperScissors
             }
             else
             {
-                Console.WriteLine(args.Length);                                                     ////////////////////////////////////////////////
-                Console.WriteLine(args.Length >= 2);
-                Console.WriteLine(args.Length % 2 != 0);                                            //                  DELETE THIS               //
-                Console.WriteLine(argsNotRepeat(args));
-                Console.WriteLine(args.Length <= 2 && args.Length % 2 != 0 && argsNotRepeat(args)); ////////////////////////////////////////////////
                 Console.WriteLine("Wrong params");
             }
         }
@@ -84,7 +79,6 @@ namespace rockPaperScissors
             else if (userMove == 0)
             {
                 Console.WriteLine("Exiting");
-                Console.ReadLine();
                 exit();
             }
             else
