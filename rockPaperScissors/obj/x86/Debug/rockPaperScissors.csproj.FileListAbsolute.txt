@@ -1,0 +1,4 @@
+D:\work\iLearning\#3\rockPaperScissors\rockPaperScissors\bin\Debug\rockPaperScissors.exe
+D:\work\iLearning\#3\rockPaperScissors\rockPaperScissors\bin\Debug\rockPaperScissors.pdb
+D:\work\iLearning\#3\rockPaperScissors\rockPaperScissors\obj\x86\Debug\rockPaperScissors.exe
+D:\work\iLearning\#3\rockPaperScissors\rockPaperScissors\obj\x86\Debug\rockPaperScissors.pdb
